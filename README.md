@@ -1,8 +1,61 @@
-# Hi, I'm Priya Yadav 🚀
+# Hi, I'm Priya Yadav 👋🪷
 
-## 🛠️ The Mission: Switching to a Top Product Company
+### Full Stack Developer | Java · Spring Boot · React.js | Open to Product Companies
 
-I am a Full Stack Developer with 1.7 years of production experience at Genpact. Currently upskilling and documenting the journey publicly on GitHub.
+---
+
+## 🚀 About Me
+
+- 🏢 Working at **Genpact** as Software Developer (1.7 years)
+- 🔭 Building production-grade **microservices & REST APIs**
+- 🌱 Currently upskilling in **System Design, Docker & AWS**
+- 💡 Solved **400+ LeetCode** problems
+- 🎯 Goal: Join a top product company in 2026
+
+---
+
+## 🛠️ Tech Stack
+
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
 
 ---
 
@@ -17,31 +70,35 @@ I am a Full Stack Developer with 1.7 years of production experience at Genpact. 
 
 ---
 
-## 🔧 Tech Stack
+## 🏗️ What I've Built
 
-- **Languages:** Java, Python, SQL, JavaScript
-- **Backend:** Spring Boot, Spring MVC, Spring Security, Hibernate
-- **Frontend:** React.js, HTML, CSS
-- **Search & Cache:** Apache Solr, Redis
-- **Databases:** PostgreSQL, JPA/JPQL
-- **Testing:** JUnit 5, Mockito — 85%+ coverage
-- **DevOps:** Docker, AWS EC2, AWS S3
+- 🔹 **Global Filter API** — dynamic multi-parameter filtering serving 3 product modules
+- 🔹 **Apache Solr Search Integration** — improved search latency
+- 🔹 **Event-Driven Notification Service** — automated 5+ event types
+- 🔹 **Vehicle Insurance Platform** — microservice with JWT auth + RBAC
+- 🔹 **SkyScanner Flight API** — multi-parameter flight search backend
 
 ---
 
-## 🏗️ What I've Built
+## 📈 GitHub Stats
 
-- **Global Filter API** — dynamic multi-parameter filtering serving 3 product modules
-- **Apache Solr Search Integration** — improved search latency
-- **Event-Driven Notification Service** — automated 5+ event types
-- **Vehicle Insurance Platform** — full microservice with JWT auth + RBAC
-- **SkyScanner Flight API** — multi-parameter flight search backend
+
+
+![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyayadav1717&show_icons=true&theme=tokyonight)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyayadav1717&layout=compact&theme=tokyonight)
+
+
 
 ---
 
 ## 👋 Connect with me
 
-- **LinkedIn:** [Priya Yadav](https://linkedin.com/in/priya-yadav)
-- **Goal:** Joining a top product company in 2026
+- 💼 **LinkedIn:** [Priya Yadav](.https://www.linkedin.com/in/priya-yadav-172a03241?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 **Email:** priyayadav1344@gmail.com
 
-*"Consistency beats intensity. Follow my commit history to see the progress."*
+*"Consistency beats intensity. Follow my commit history to see the progress."* 🪷
