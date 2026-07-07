@@ -1,12 +1,12 @@
-# Hi, I'm Priya Yadav 👋🪷
+# Hi, I'm Priya Yadav 👋
 
-### Full Stack Developer | Java · Spring Boot · React.js | Open to Product Companies
+###  Developer | Java · Spring Boot · React.js | Open to Product Companies
 
 ---
 
 ## 🚀 About Me
 
-- 🏢 Working at **Genpact** as Software Developer (1.7 years)
+- 🏢 Working at **Genpact** as Developer (1.7 years)
 - 🔭 Building production-grade **microservices & REST APIs**
 - 🌱 Currently upskilling in **System Design, Docker & AWS**
 - 💡 Solved **400+ LeetCode** problems
@@ -76,29 +76,12 @@
 - 🔹 **Apache Solr Search Integration** — improved search latency
 - 🔹 **Event-Driven Notification Service** — automated 5+ event types
 - 🔹 **Vehicle Insurance Platform** — microservice with JWT auth + RBAC
-- 🔹 **SkyScanner Flight API** — multi-parameter flight search backend
-
----
-
-## 📈 GitHub Stats
-
-
-
-![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyayadav1717&show_icons=true&theme=tokyonight)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyayadav1717&layout=compact&theme=tokyonight)
-
-
 
 ---
 
 ## 👋 Connect with me
 
-- 💼 **LinkedIn:** [Priya Yadav](.https://www.linkedin.com/in/priya-yadav-172a03241?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 **LinkedIn:** [Priya Yadav](https://www.linkedin.com/in/priya-yadav-3b3b3b1b4/)
 - 📧 **Email:** priyayadav1344@gmail.com
 
-*"Consistency beats intensity. Follow my commit history to see the progress."* 🪷
+*"Consistency beats intensity. Follow my commit history to see the progress."* 💻
