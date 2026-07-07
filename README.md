@@ -81,7 +81,7 @@
 
 ## 👋 Connect with me
 
-- 💼 **LinkedIn:** [Priya Yadav](https://www.linkedin.com/in/priya-yadav-3b3b3b1b4/)
+- 💼 **LinkedIn:** [Priya Yadav](https://www.linkedin.com/in/priya-yadav-172a03241?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📧 **Email:** priyayadav1344@gmail.com
 
 *"Consistency beats intensity. Follow my commit history to see the progress."* 💻
