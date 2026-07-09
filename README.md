@@ -35,7 +35,7 @@
 
 ## 🏗️ Projects
 
-### 🔹 [Vehicle Insurance Platform](https://github.com/priyayadav1717/Vehicle_Insurance_app)
+### 🔹 [Vehicle Insurance APP](https://github.com/priyayadav1717/Vehicle_Insurance_app)
 A microservices-based insurance management system built with Spring Boot.
 - Implemented **JWT-based authentication** and **Role-Based Access Control (RBAC)**
 - Designed RESTful APIs for policy management and user workflows
